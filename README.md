@@ -13,3 +13,11 @@ git add .
 git commit -m "primer commit con mis cambios"
 ```
 
+4. Linkear el proyecto con Github
+    - Crear cuenta en Github (tener en cuenta mi nombre de usuario)
+    - Copiar el comando "git add origin ..."
+
+5. Subir código
+```sh
+git push origin master 
+```
