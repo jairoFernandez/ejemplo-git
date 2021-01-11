@@ -8,4 +8,8 @@ git init
 git add .
 ```
 
+3. Commit de los archivos
+```sh
+git commit -m "primer commit con mis cambios"
+```
 
